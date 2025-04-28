@@ -11,12 +11,22 @@ This project highlights how digital watermarking can be used to protect ownershi
 
 
 # Input Image
+
+**1. Watermark Image**
 ![Watermark Image](https://github.com/user-attachments/assets/5334257c-35b8-4701-bb42-84d32db896d8)
+
+**2. Host Image**
 ![Host Image](https://github.com/user-attachments/assets/47c4ab5e-44a0-4c4f-9295-95790906efd4)
 
 # Output Image
+
+**1. Visible Watermark Image**
 ![Visible Watermark Image](https://github.com/user-attachments/assets/f87e2f64-af1a-4c89-8569-daac8f3225c1)
+
+**2. Invisible Watermark Image**
 ![Invisible Watermark Image](https://github.com/user-attachments/assets/73fcf5d1-14d0-46ff-90ed-065a1057ab30)
+
+**3. Extracted Watermark Image from Invisible Image**
 ![Extracted Watermark Image from Invisible Image](https://github.com/user-attachments/assets/6bc6a477-425b-474c-83d3-8088274d75d4)
 
 
