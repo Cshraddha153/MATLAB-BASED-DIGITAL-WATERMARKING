@@ -30,6 +30,5 @@ This project highlights how digital watermarking can be used to protect ownershi
 ![Extracted Watermark Image from Invisible Image](https://github.com/user-attachments/assets/6bc6a477-425b-474c-83d3-8088274d75d4)
 
 
-# Report of the project
-**pdf:-** [DIP_LAB_MINI_PROJECT_REPORT](https://github.com/user-attachments/files/19940492/report_file_dip.pdf)
+
 
